@@ -1,1 +1,1 @@
-My first readme for life
+My first readme
